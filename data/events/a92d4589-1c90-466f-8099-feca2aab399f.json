@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "07955024-303e-4b7f-a187-3443dced7eb5": {
+      "label": "Wreck of the Old '97",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/wreck-of-the-old-97_202102/Wreck%20Of%20The%20Old%2097.mp3",
+      "duration": 193,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Wreck of the Old '97",
+  "created_at": "2025-03-28T17:00:27.516Z",
+  "created_by": "benwbrum",
+  "updated_at": "2025-03-28T17:00:27.516Z",
+  "updated_by": "benwbrum"
+}
