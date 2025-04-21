@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://benwbrum.github.io/atomic-country/manifests/collection.json","type":"Collection","label":{"en":["Atomic Country"]},"items":[{"id":"https://benwbrum.github.io/atomic-country/manifests/wreck-of-the-old-97.json","type":"Manifest","label":{"en":["Wreck of the Old '97"]}}]}
